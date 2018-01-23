@@ -17,8 +17,8 @@ Copyright Dygma 2018.
 
 The firmware for the keyboard is part of the [Kaleidoscope
 project](https://github.com/keyboardio/Kaleidoscope). The
-specific implementation is defined in the [Shortcut Hardware
-Plugin](https://github.com/Dygmalab/Kaleidoscope-Hardware-Shortcut).
+specific implementation is defined in the [Raise Hardware
+Plugin](https://github.com/Dygmalab/Kaleidoscope-Hardware-Raise).
 
 This documentation describes Open Hardware and is licensed under the
 [CERN OHL v. 1.2.](cern_ohl_v_1_2.txt)
