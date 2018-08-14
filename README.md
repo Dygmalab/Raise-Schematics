@@ -1,9 +1,6 @@
 # Dygma Raise Schematics
 
-[Dygma's](http://www.dygma.com/) Raise Keyboard will be open source hardware and software.
-
-As we are still working on the hardware prototype, and potentially changing main microcontroller in the near future,
-only the current schematics are posted.
+[Dygma's](http://www.dygma.com/) Raise Keyboard is open source hardware and software.
 
 As the hardware becomes finalised we will move each schematic and pcb into a sub directory here.
 
