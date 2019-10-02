@@ -6,6 +6,8 @@ The production files for MP1 are [2019-07-24-PVT-release-corrected.zip](2019-07-
 
 Firmware binaries are in a [separate repository](https://github.com/Dygmalab/Firmware-Binaries)
 
+We are still working to merge our Keyboardio forks into master. When this is done we will provide build instructions to create your own binaries.
+
 Thanks and enjoy! The Dygma Team.
 
 # License
