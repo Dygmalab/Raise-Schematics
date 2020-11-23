@@ -12,7 +12,7 @@ Thanks and enjoy! The Dygma Team.
 
 # License
 
-Copyright Dygma 2018 and 2019.
+Copyright Dygma 2018 - 2020.
 
 The firmware for the keyboard is part of the [Kaleidoscope
 project](https://github.com/keyboardio/Kaleidoscope). The
